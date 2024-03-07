@@ -33,4 +33,9 @@
 <br/><br/><br/>
 
 ### My Git Stats ✅ 
-![Ahnpybara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnpybara&show_icons=true&theme=merko)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahnpybara&show_icons=true&theme=merko" height="165">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ahnpybara" height="165">
+</p>
+
+
