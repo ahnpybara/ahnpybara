@@ -7,7 +7,7 @@
 <a href="mailto:ahnpybara0807@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahnpybara0807@gmail.com"/></a>
 <a href="mailto:ahnpybara0807@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ahnpybara0807@naver.com"/></a>
 <a href="https://www.instagram.com/a_pybara/"><img src="https://img.shields.io/badge/instagram-0866FF?style=flat-square&logo=instagram&logoColor=white"/></a>
-<br/><br/>
+<br/><br/><br/>
 
 ### My Stacks ⚡ 
 ![HTML5](http://img.shields.io/badge/-HTML-f06529?style=flat-square&logo=HTML5&logoColor=white)
@@ -30,6 +30,7 @@
 ![ApacheKafka](http://img.shields.io/badge/-Kafka-BF00FF?style=flat-square&logo=ApacheKafka&logoColor=white)
 ![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+<br/><br/><br/>
 
+### My Git Stats ✅ 
 ![Ahnpybara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnpybara&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnpybara&layout=compact)
